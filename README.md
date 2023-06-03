@@ -1,16 +1,20 @@
-### Hello there :vulcan_salute:
+# Hello there! :vulcan_salute:
 
-Welcome to my github, here you can find most of my school assignemnts and Master's thesis (Bachelor's was SimTalk). <br>
+Welcome to my GitHub page! Here you will find a comprehensive collection of my academic work, including assignments and my Master's thesis. This portfolio offers an insight into my progression and accomplishments throughout my studies in Computer Science at FEI STU.
 
-**School-Assignments-Bc** contains assigments from my Computer Science Bachelor's study 2018 - 2021 at FEI STU. <br>
-**School-Assignments-Ing** contains assigments from my Computer Science Master's study 2021 - 2023 at FEI STU. <br>
-**People-detection-in-historical-photographs** contains my Master's thesis, where I tested 70+ models for object detection, trained my own models, used multiple GAN networks for restoration and generation of old photographs. Documentation was done in Overleaf (latex). <br>
-**FP** contains final team assignment where we created application to search Brazilian web using Haskell. <br>
-**blockchain-school-server** contains team project using blockchain to create academical information website. <br>
-**WebteFinalne** contains final team assignment where we created website. <br>
-**ASOS-R** contains team assignment where we presented R programming language with examples. <br>
+## Repositories:
 
+- **School-Assignments-Bc**: This repository holds assignments from my Bachelor's degree in Computer Science at FEI STU (2018 - 2021).
+- **School-Assignments-Ing**: This repository houses assignments from my Master's degree in Computer Science at FEI STU (2021 - 2023).
+- **People-detection-in-historical-photographs**: This repository is dedicated to my Master's thesis, which focuses on object detection in historical photographs. I explored over 70 models, trained custom models, and utilized multiple GAN networks for the restoration and generation of old photographs. The documentation for this project was done in Overleaf using LaTeX.
+- **FP**: A final team project where we developed a web search application for Brazilian websites using Haskell.
+- **blockchain-school-server**: A collaborative project where we used blockchain technology to build an academic information website.
+- **WebteFinalne**: A repository for the final team assignment where we created a website.
+- **ASOS-R**: A team assignment where we explored and presented the R programming language with practical examples.
 
-[Link to Bachelor's thesis in CRZP (slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=CF9E62B1F4156FE3B62B0A84D7C8)
-[Link to Master's thesis in CRZP (slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=EC7951772ACC837B5F7DC5A56A1E)
+## Thesis:
 
+- [Link to Bachelor's thesis in CRZP (Slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=CF9E62B1F4156FE3B62B0A84D7C8)
+- [Link to Master's thesis in CRZP (Slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=EC7951772ACC837B5F7DC5A56A1E)
+
+Thank you for visiting my GitHub page. Enjoy exploring!
