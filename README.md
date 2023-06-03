@@ -17,4 +17,8 @@ Welcome to my GitHub page! Here you will find a comprehensive collection of my a
 - [Link to Bachelor's thesis in CRZP (Slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=CF9E62B1F4156FE3B62B0A84D7C8)
 - [Link to Master's thesis in CRZP (Slovak language)](https://opac.crzp.sk/?fn=detailBiblioForm&sid=EC7951772ACC837B5F7DC5A56A1E)
 
+## About Me:
+
+I have a keen interest in Machine Learning and have garnered experience using a variety of Python libraries within the Jupyter Notebook environment. My curiosity and passion for the subject have led me to explore various models and techniques, continually pushing the boundaries of my knowledge in this exciting field.
+
 Thank you for visiting my GitHub page. Enjoy exploring!
